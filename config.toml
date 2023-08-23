@@ -21,7 +21,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
 	mode="toggle" # color-mode → light,dark,toggle or auto
-	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	useCDN=true # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "all articles are written by Aquila Minakami"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
@@ -37,21 +37,21 @@ icon = "twitter"
 url = "https://twitter.com/such_as_it_is/"
 
 [[menu.main]]
-name = "Home"
+name = "home"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "posts"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "About"
+name = "about"
 url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "Tags"
+name = "tags"
 url = "/tags"
 weight = 4
