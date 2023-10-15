@@ -1,10 +1,11 @@
 baseURL = 'https://such-as-it-is.com/'
 title = 'such as IT is'
 
-# language
+# language and locale
 languageCode = "ja"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
+timeZone = "Asia/Tokyo"
 
 baseurl = "/"
 # Add it only if you keep the theme in the `themes` directory.
