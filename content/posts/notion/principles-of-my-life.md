@@ -1,6 +1,6 @@
 ---
-title: 2023-10-23
-description: わたしの人生の原則について
+title: わたしの人生の原則について
+description: いったん2023年時点のものを置く
 date: 2023-10-23
 tags: [notion]
 ---
