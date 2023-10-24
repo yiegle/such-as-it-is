@@ -3,6 +3,7 @@ title: 貧困について、あるいは自分史の偏向した素描
 description: 実際、ただの愚痴
 date: 2023-10-24
 tags: [essay]
+draft: true
 ---
 
 ## 前提
