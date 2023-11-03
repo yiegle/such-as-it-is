@@ -5,7 +5,7 @@ date: 2023-11-04
 tags: [tech]
 ---
 
-## 環境変数（Environment Values）
+## 環境変数（Environment Variables）
 
 OS単位で共有される。シェルなどから宣言・参照できる。必ずしも機微ではない。
 例えば``APP_ENV=local``, ``APP_URL=http://localhost:8080``などの環境変数値を``env.example``のようなファイルに載せていたとして、これが漏出して困ることはそうそうないだろう。
