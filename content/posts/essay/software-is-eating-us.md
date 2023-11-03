@@ -1,6 +1,6 @@
 ---
-title: 2023-10-23
-description: Software is Eating Us.
+title: Software is Eating Us.
+description: We are Eating Softwares.
 date: 2023-11-04
 tags: [essay, diary]
 ---
