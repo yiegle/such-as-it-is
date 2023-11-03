@@ -15,7 +15,7 @@ netscape開発者のマーク・アンドリーセンの言葉だ。その真意
 
 枚挙に暇がない。
 
-「本当に、良かったのか？」という問いは常に既に現前している。
+「本当に、良かったのか？」という問いが、現前している。
 
 ## IT engineers must be first class critics of the consequences of IT technology
 
