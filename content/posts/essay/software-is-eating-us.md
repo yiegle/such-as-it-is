@@ -3,6 +3,7 @@ title: Software is Eating Us.
 description: We are Eating Softwares.
 date: 2023-11-04
 tags: [essay, diary]
+draft: true
 ---
 
 ## Software is Eating The World
